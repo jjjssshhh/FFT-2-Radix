@@ -3,6 +3,10 @@
 256-point DIT Radix-2 FFT를 FPGA에 구현한 프로젝트.  
 PC에서 UART로 256샘플을 전송하면 FFT 연산 후 최대 진폭 주파수 빈을 7-세그먼트에 표시한다.
 
+## 데모
+
+[![Demo](https://img.youtube.com/vi/f2Y4J2dDIZk/0.jpg)](https://youtu.be/f2Y4J2dDIZk)
+
 ## 구성
 
 | 파일 | 설명 |
